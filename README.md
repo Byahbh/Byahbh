@@ -3,7 +3,7 @@
 - 🔭 Hoje trabalho com o Sucesso do Cleinte
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas
 - 😄 Pronouns: ela/dela
-<div align="center">
+<div align="justify">
   <a href="https://github.com/Byahbh">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=byahbh&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byahbh&layout=compact&langs_count=7&theme=radical"/>
