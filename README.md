@@ -1,6 +1,6 @@
 ##Olá! Eu sou Fabiana Morais 👋
 
-- 🔭 Hoje trabalho com o Sucesso do Cleinte
+- 🔭 Trabalhando atualmente 
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas
 - 😄 Pronouns: ela/dela
 <div align="center">
