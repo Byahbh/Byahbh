@@ -1,36 +1,33 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
 
-##Olá! Eu sou Fabiana Morais 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=OLÁ!+Meu+nome+é+Fabiana+Morais;Analista+de+Qualidade+-+QA;Graduada+em+Análise+e+Desenvolvimento+de+Sistemas;Seja+bem+vindo(a)!+:%29)](https://git.io/typing-svg)
 
-- 🔭 Hoje trabalho com o Sucesso do Cleinte
-- 🌱 Estudando Análise e Desenvolvimento de Sistemas
-- 😄 Pronouns: ela/dela
-<div align="justify">
-  <a href="https://github.com/Byahbh">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=byahbh&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byahbh&layout=compact&langs_count=7&theme=radical"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Byah-Js" height="60" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Byah-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Byah-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="ByahHTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Byah-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Byah-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Byah-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img align="right" alt="Byah-pic" height="150" style="border-radius:50px;" 
-  src="https://cdn.discordapp.com/attachments/1000785806912393299/1000796380803121234/rounded-in-photoretrica_1.png?width=676&height=676">
   
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=byahbh&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Fabiana Morais github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carolbarbosa101&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 </div>
 
 ##
 
-<div>
-  <a href="https://instagram.com/byah.morais" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https:https://discord.gg/Wn9sDVrVSr" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href="https://www.linkedin.com/in/fabiana-morais-b2196a108" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-  ![Snake animation](https://github.com/byahbh/byahbh/blob/output/github-contribution-grid-snake.svg)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=byahbh&bg_color=0d1117&color=ff91a4&line=ff91a4&point=dfb3dc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+      
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
+##
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,selenium,postgres,postman,js,html,css," />
+  </a>
+</p>
+
+
+<div align= "center"> 
+<a href="https://www.linkedin.com/in/fabiana-morais-b2196a108/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
+<a href="https://www.discord.com/ target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href = "mailto:byahbh@gotmail.com"> <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank"></a>
+ </div>
+
+##
